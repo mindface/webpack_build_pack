@@ -1,0 +1,37 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Node template
+# Logs
+/logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+lib-cov
+coverage
+.nyc_output
+.grunt
+bower_components
+
+.lock-wscript
+build/Release
+
+# Dependency directories
+node_modules/
+
+typings/
+.npm
+.eslintcache
+
+*.tgz
+.env
+.cache
+dist
+.DS_Store
+*.swp
